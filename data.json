@@ -12,13 +12,35 @@
 },
 {
   "degree":"INTERMEDIATE",
-  "college":"MOTHER TERESA JUNIOR COLLEGE",
+  "school":"MOTHER TERESA JUNIOR COLLEGE",
   "data":["2015","94%"]
 },
 {
   "degree":"B.TECH",
-  "college":"SREE VIDYANIKETHAN ENGINEERING COLLEGE",
+  "school":"SREE VIDYANIKETHAN ENGINEERING COLLEGE",
   "data":["2019","83%"]
 }
+],
+"skills":[
+  {
+    "name":"Operating System",
+    "info":["Windows","Linux","Fedora","Ubuntu"]
+  },
+  {
+    "name":"Languages",
+    "info":["c","java","c++"]
+  },
+  {
+    "name":"Databases",
+    "info":["Oracle","Mysql","cybase"]
+  },
+  {
+    "name":"Web Technologies",
+    "info":["HTML","CSS","javascript"]
+  },
+  {
+    "name":"Frameworks",
+    "info":["Bootstrap",".net"]
+  }
 ]
 }

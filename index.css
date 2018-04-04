@@ -53,6 +53,16 @@ a:hover{
   color: #72A2FF;
   font-weight:bolder;
 }
+table{
+  width: 95%;
+}
+td{
+  padding: 1%;
+}
+tr{
+  color: blue;
+  background: #E3E2D4;
+}
 @media only screen and (min-width:0px) and (max-width:480px) {
   body{
     background-color: #110000;
@@ -92,6 +102,16 @@ a:hover{
     background-color: #E3E2D4;
     color: #FF72A2;
     font-weight:bolder;
+  }
+  table{
+    width: 95%;
+  }
+  td{
+    padding: 1%;
+  }
+  tr{
+    color: red;
+    background: #E3E2D4;
   }
 }
 @media only screen and (min-width:480px) and (max-width:720px) {
@@ -134,6 +154,16 @@ a:hover{
     color: #72FFA2;
     font-weight:bolder;
   }
+  table{
+    width: 95%;
+  }
+  td{
+    padding: 1%;
+  }
+  tr{
+    color: pink;
+    background: black;
+  }
 }
 @media only screen and (min-width:720px) and (max-width:1024px) {
   .flex-parent{
@@ -174,5 +204,15 @@ a:hover{
     background-color: #E3E2D4;
     color: #72d177;
     font-weight:bolder;
+  }
+  table{
+    width: 95%;
+  }
+  td{
+    padding: 1%;
+  }
+  tr{
+    color: #72d177;
+    background: #E3E2D4;
   }
 }
