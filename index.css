@@ -162,7 +162,7 @@ tr{
   }
   tr{
     color: pink;
-    background: black;
+    background: #E3E2D4;
   }
 }
 @media only screen and (min-width:720px) and (max-width:1024px) {
